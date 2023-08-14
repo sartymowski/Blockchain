@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Blockchain (Kotlin)/*
+!/Blockchain (Kotlin)/task/
+/Blockchain (Kotlin)/task/*
+!/Blockchain (Kotlin)/task/src
